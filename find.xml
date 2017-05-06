@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/tonycoop/Sites/js/tooltip/jquery.tooltip.js'" />
-    <option name="defaultScopeName" value="File '/Users/tonycoop/Sites/js/tooltip/jquery.tooltip.js'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/tonycoop/Sites/js/tooltip/jquery.tooltip.js'" />
+    <option name="customScope" value="File '.../src/reducers/ModalReducer.js - [react-billboard]'" />
+    <option name="defaultScopeName" value="File '.../src/reducers/ModalReducer.js - [react-billboard]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/reducers/ModalReducer.js - [react-billboard]'" />
   </component>
 </application>
