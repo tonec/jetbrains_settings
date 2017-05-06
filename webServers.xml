@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8195afbd-302a-4eb2-aae4-ae09dd0c2625" name="uktv" url="http://local.tal-test.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="eaa84af7-5bc5-4d5c-b1b8-2f6f3816d980" name="js" url="http://local.sites.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4729c732-8363-46f1-b222-cd6002306955" name="Frost" url="http://local.frost.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
